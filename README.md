@@ -44,8 +44,8 @@ This is a **Netflix homepage clone** built using only **HTML** and **CSS**. The 
 
 ### Live Preview
 
-Check out the live version here: [Netflix Clone Live Demo](#)
-*(Replace `#` with your GitHub Pages or Netlify URL if hosted)*
+Check out the live version here: [Netflix Clone Live Demo](https://glittery-chimera-16aab4.netlify.app/)
+
 
 ## 📁 Folder Structure
 
